@@ -11,5 +11,7 @@ Learning some PureScript via LA group
   - use ```:paste```
   - then ```^D``` to end function
   - see [3.3](https://leanpub.com/purescript/read)
+  - ```pulp psci``` and also remember to import ```main``` and ```function```
+  - psci is an instance so needs to import modules separately
 
 
