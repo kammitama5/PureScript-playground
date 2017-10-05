@@ -1,6 +1,8 @@
 # PureScript-playground
 Learning some PureScript via LA group
 
+- comments ```-- blah blah comment```
+
 - REPL PSCI  ```pulp repl```
 
 - run and build ```pulp run``` ```pulp build```
