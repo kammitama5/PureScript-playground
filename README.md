@@ -16,5 +16,10 @@ Learning some PureScript via LA group
   - ```pulp psci``` and also remember to import ```main``` and ```function```
   - psci is an instance so needs to import modules separately
   - ```:r``` will reset your workspace (is this the same as ```:reset```?)
+  
+  
+## There is a PureScript Exercism
+
+[PureScript Exercism](http://exercism.io/languages/purescript/about)
 
 
